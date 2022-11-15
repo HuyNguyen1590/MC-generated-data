@@ -1,0 +1,11 @@
+## gitignore
+## https://git-scm.com/docs/gitignore
+##
+
+--*/
+zz*
+
+__pycache__
+
+*.code-workspace
+*.lnk
